@@ -11,7 +11,7 @@ LIVE: https://andrzejszlachta.github.io/nasa-api/
 
 ## Overview
 
-description
+View Astronomy Pictures of the Day using NASA API. Save your favorites to view them later.
 
 ### Built With
 
@@ -19,7 +19,8 @@ HTML, CSS, JavaScript
 
 ## Features
 
-1. feature 1
+1. View Astronomy Pictures of the Day
+2. Save your favorite pictures to view later
 
 ## Contact
 
@@ -28,4 +29,4 @@ https://andrzejszlachta.github.io/
 
 ## Acknowledgements
 
-acknowledgments
+NASA API: https://api.nasa.gov/  
